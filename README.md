@@ -1,3 +1,4 @@
+HEAD
 """ Folder Name : Python
 
 Author : Andy
@@ -17,3 +18,7 @@ NB: these codes highlights my early days of learning how to program. Better vers
 
 """
 
+
+# myPythonFiles
+my cool beginner👣 python codes ✨
+eee303c4617be03808d9d617e15f5d12bff1e6fa

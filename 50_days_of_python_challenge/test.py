@@ -1,4 +1,5 @@
 # A program that takes the name and student's programme
+print("hello devs")
 
 def name_and_programme():
     name = input("enter name: ")

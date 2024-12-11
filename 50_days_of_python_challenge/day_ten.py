@@ -13,4 +13,4 @@ def sum_numbers (numbers):
 #displays total after  loop ends
 print(sum_numbers([1,2,3,4,5,6,7,8,9,10]))  # expected output 👉 55
     
-    
+

@@ -4,4 +4,13 @@ print(chiCast[0])
 
 chiCast.append("Keisha")
 
-print(chiCast.index("Jake"))
+# print(chiCast.index("Jake"))
+
+
+
+
+
+
+
+
+

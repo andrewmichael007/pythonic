@@ -27,4 +27,23 @@ def foodandtipcalculator(food, tip):
     total  =  sum(food, tipAmount) #using the sum function created above
     return total
 
-print(foodandtipcalculator(200, 30))
+# print(foodandtipcalculator(200, 30))
+
+#  Numbers Manipulation
+
+# this tool takes an array of numbers and logs each of them out
+def numbersManipulate(numbers):
+    for each in numbers:
+        print(each)
+# numbersManipulate([2,4,6,8,10])
+
+print("********************************")
+# this tool takes an array of numbers  multiplies each by 2 and logs out the new result
+def numbersManipulate2(numbers):
+    for each in numbers:
+        manipulated = each * 2
+        print(manipulated)
+numbersManipulate2([2,4,6,8,10])
+
+
+

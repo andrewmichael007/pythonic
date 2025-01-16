@@ -33,4 +33,10 @@ print(result) # program should return 10
 
 
 # TO BE IMPLEMENTED...
+try:
+    first_number  = float(input("enter first number: "))
+    second_number = float(input("enter second number: "))
+except:
+    ValueError
+    print("enter a digit next time.")
 

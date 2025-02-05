@@ -12,4 +12,4 @@ height_of_triangle = float(input("enter the height of the triangle: "))
 # half * base * height
 formulae = 0.5 * base_of_triangle * height_of_triangle
 
-print(f"the area of a triangle with base {base_of_triangle} and height {height_of_triangle} is g {formulae} cm square")
+print(f"the area of a triangle with base {base_of_triangle} and height {height_of_triangle} is {formulae} cm square")
